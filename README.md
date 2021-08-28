@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Achmad Fahreza
+# 👋 Hi, I’m Achmad Fahreza
 - 👀 I’m interested in Backend Programming, especially mobile Programming
-- 🌱 I’m currently learning Mobile Programming 
+- 🌱 I’m currently learning Flutter Framework for Mobile Programming
 - 📫 Tou can reach me with Email at achmadfahreza950@gmail.com
 
 <!---
