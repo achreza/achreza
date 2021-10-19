@@ -1,21 +1,13 @@
-👋 Hi
+👋 Hi, I'm 
 **Achmad Fahreza**
 
-- [Profile](https://github.com/achreza "Achmad Fahreza")
-- [Email](mailto:achmadfahreza950@gmail.com?subject=Hi% "Hi!")
+- [My file](https://github.com/achreza "Achmad Fahreza")
+- [My Email](mailto:achmadfahreza950@gmail.com?subject=Hi% "Hi!")
 - [Website](https://achreza.github.io/Rz-Web "Welcome")
 
-## Built With
-
-- Java
-- Flutter
-- React Native
-- Javascript
-- HTML
-- CSS
-
 Contributions, issues, and feature requests are welcome!
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like My project!
+
 
 
 
