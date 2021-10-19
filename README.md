@@ -1,7 +1,24 @@
-# 👋 Hi, I’m Achmad Fahreza
-- 👀 I’m interested in Backend Programming, especially mobile Programming
-- 🌱 I’m currently learning Flutter Framework for Mobile Programming
-- 📫 Tou can reach me with Email at achmadfahreza950@gmail.com
+👋 Hi
+**Achmad Fahreza**
+
+- [Profile](https://github.com/achreza "Achmad Fahreza")
+- [Email](mailto:achmadfahreza950@gmail.com?subject=Hi% "Hi!")
+- [Website](https://achreza.github.io/Rz-Web "Welcome")
+
+## Built With
+
+- Java
+- Flutter
+- React Native
+- Javascript
+- HTML
+- CSS
+
+Contributions, issues, and feature requests are welcome!
+Give a ⭐️ if you like this project!
+
+
+
 
 <!---
 achreza/achreza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
