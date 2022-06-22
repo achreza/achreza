@@ -1,14 +1,11 @@
 # Reza
 
-Hi, I'm Achmad Fahreza 👨 (he/him)—a freelance and remote web developer at Home. I live in East Java, Indonesia. 🙌 I'm a Fullstack Developer with PHP and Javascript as Backend , Flutter as Frontend , Manage projects with git and understanding to deploy and publish projects on cpanel or vps, EDM and Pop musics lover, and tech enthusiast. 💕
+Hi, I'm Achmad Fahreza 👨 Im a freelance and remote web developer at Home. I live in East Java, Indonesia. 🙌 I'm a Fullstack Developer with PHP and Javascript as Backend , Flutter as Frontend , Manage projects with git and understanding to deploy and publish projects on cpanel or vps, EDM and Pop musics lover, and tech enthusiast. 💕
 
 ## My Github Performance
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=achreza&show_icons=true)
 
-## How I work
-
-My motivation is to be useful to others and fulfill my obligations to complete existing tasks, complete all checks ✅ that have not been completed and learn many new things 🆕 so that they remain open and easy to follow the flow. 😄
 
 ## Current activity
 
@@ -22,9 +19,9 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 
 ## Get in touch
 
-- 📝 See my ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) <a href="https://www.linkedin.com/in/acfahreza/">linked.in</a> to get more info.
+- 📝 See my <a href="https://www.linkedin.com/in/acfahreza/">linked.in</a> to get more info.
 - Personal site: [https://fauzan.tech](https://achreza.github.io/Rz-Web/)
-- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) : https://instagram.com/ac.frz/
+- Instagram : https://instagram.com/ac.frz/
 
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
