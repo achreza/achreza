@@ -9,7 +9,7 @@ Hi, I'm Achmad Fahreza 👨 Im a freelance and remote web developer at Home. I l
 
 ## Current activity
 
-- 💻 I'm currently developing <a href="https://github.com/fauzan121002/denovel/tree/development">denovel</a> and some freelance projects.
+- 💻 I'm currently developing some freelance projects.
 - 📖 I’m currently learning flutter and Tensor FLow;
 - 🤔 My interests are with front-end & backend then i decide to do fullstack;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
