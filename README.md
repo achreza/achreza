@@ -20,7 +20,7 @@ I'm Achmad Fahreza 👨 Im a freelance and remote web developer at Home. I live 
 ## Get in touch
 
 - 📝 See my <a href="https://www.linkedin.com/in/acfahreza/">linked.in</a> to get more info.
-- Personal site: [https://fauzan.tech](https://achreza.github.io/Rz-Web/)
+- Personal site: [Rz-Web](https://achreza.github.io/Rz-Web/)
 - Instagram : https://instagram.com/ac.frz/
 
 
