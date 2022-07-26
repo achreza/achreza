@@ -1,7 +1,7 @@
 
 I'm Achmad Fahreza 👨 Im a freelance and remote web developer at Home. I live in East Java, Indonesia. 🙌 I'm a Fullstack Developer with PHP and Javascript as Backend , Flutter as Frontend , Manage projects with git and understanding to deploy and publish projects on cpanel or vps, Please feel Free to contact me :)
 
-## My Github Performance
+## Performance
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
