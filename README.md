@@ -15,7 +15,7 @@ I'm Achmad Fahreza 👨 Im a freelance and remote web developer at Home. I live 
 ## Current activity
 
 - 💻 I'm currently developing some freelance projects.
-- 📖 I’m currently learning flutter and Tensor FLow;
+- 📖 I’m currently learning flutter and Node.js
 - 🤔 My interests are with front-end & backend then i decide to do fullstack;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
